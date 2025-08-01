@@ -1,0 +1,1 @@
+print("tu hoc tu a-z")
